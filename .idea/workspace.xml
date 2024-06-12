@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed54ae3d-ef4b-4da3-89b1-bcdb306c67c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="ed54ae3d-ef4b-4da3-89b1-bcdb306c67c3" name="Changes" comment="포트번호 변경">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/hide_db",
+    "last_opened_file_path": "C:/Users/user/Desktop/hide_test",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
@@ -41,6 +41,15 @@
       <option name="presentableId" value="Default" />
       <updated>1711011671049</updated>
     </task>
+    <task id="LOCAL-00001" summary="포트번호 변경">
+      <option name="closed" value="true" />
+      <created>1718207932118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718207932118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -56,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="포트번호 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="포트번호 변경" />
   </component>
 </project>

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed54ae3d-ef4b-4da3-89b1-bcdb306c67c3" name="Changes" comment="db 도커 파일 변경" />
+    <list default="true" id="ed54ae3d-ef4b-4da3-89b1-bcdb306c67c3" name="Changes" comment="init.sql 삭제" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "num22yh"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="59170af5-5b03-4fc9-b52d-c9f727f54bd5" />
+        <option name="url" value="https://github.com/num22yh/hide_db.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -63,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719248021363</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init.sql 삭제">
+      <option name="closed" value="true" />
+      <created>1719248251192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719248251192</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -83,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="포트번호 변경" />
     <MESSAGE value="db 도커 파일 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="db 도커 파일 변경" />
+    <MESSAGE value="init.sql 삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="init.sql 삭제" />
   </component>
 </project>
